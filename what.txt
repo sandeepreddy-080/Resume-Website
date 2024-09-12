@@ -1,0 +1,65 @@
+<html></html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>POLIMERA SANDEEP REDDY</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="./Core CV .docx">
+    </head>
+    <body>
+        <div id="container--main">
+
+            <section id="wrapper--hero" class="section--page">
+                <img id="img1" src="./assets\images\profile pic .jpg">
+
+                <div>
+                    <h1 id="user-name">POLIMERA SANDEEP REDDY</h1>
+                    <p id="bio">Enthusiastic and detail-oriented VLSI Design Engineer with a strong foundation in  digital design, semiconductor theory, and hands-on experience in HDL languages. 
+                        Seeking an entry-level position where I can apply my skills in VLSI design, contribute to innovative projects, and continue to grow in a dynamic engineering environment.
+                    <p id="email">👉 spolimer080@gmail.com</p>
+                </div>  
+            </section>
+
+            <section class="section--page">
+
+                <div id="socials--list">
+                    <a href="https://www.linkedin.com/in/sandeep-reddy-434b58249" target="_blank">Linkedin</a>
+                    <a href="https://github.com/sandeepreddy-080" target="_blank">Github</a>
+                    <a href="./Core CV .docx" target="_blank">Download Resume</a>
+                </div>
+            </section>
+
+        </div>
+        <section class="section--page">
+            <h2>Skills</h2>
+        
+            <div id="wrapper--Skills__items">
+                <div class="card--Skills"><span>Verilog</span></div>
+                <div class="card--Skills"><span>MATLAB</span></div>
+                <div class="card--Skills"><span>Digital Electronics</span></div>
+                <div class="card--Skills"><span>RTL Design</span></div>
+                <div class="card--Skills"><span>Basic python</span></div>
+            </div>
+        </section>
+        <section id="work-history-wrapper" class="section--page">
+            <h2>Work Experience</h2>
+        
+            <div class="line-break"></div>
+            <div class="card--work-history">
+                <strong>	IPCS GLOBAL INSTITUTE    
+                    | VLSI - Design Engineer</strong>
+                <p>As a intern at the IPCS GLOBAL INSTITUTE, I have assisted in designing and implementing RTL (Register Transfer Level) code for 
+                    digital circuits using Verilog/VHDL,Contributed to the development of design specifications, functional 
+                    verification, and simulation of digital components.</p>
+                    <a href="./assets\images\vlsi internship.jpg" target="_blank">Certificate</a>
+            </div>
+        
+            <div class="line-break"></div>
+        
+            <div class="card--work-history">
+                <strong>	AICTE Intern  | AI/ML</strong>
+                <p>As a fresher at AICTE intern, I focused on the fundamental of AI/ML and acquiring essential practical skills and knowledge for the field </p>
+                    <a href="./assets\images\INTERNSHIP 1 CERTIFICATE.pdf" target="_blank">Certificate</a>
+            </div>
+            <div class="line-break"></div>
